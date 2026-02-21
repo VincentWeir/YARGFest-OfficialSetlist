@@ -22,6 +22,696 @@
 }
 [Events]
 {
+  0 = E "section Intro"
+  1344 = E "phrase_start"
+  1536 = E "lyric Po="
+  1632 = E "lyric ppi="
+  1680 = E "lyric po="
+  1776 = E "lyric ppi="
+  1824 = E "lyric po="
+  1920 = E "lyric ppo="
+  2016 = E "lyric ppi="
+  2112 = E "lyric po"
+  2208 = E "phrase_end"
+  2256 = E "phrase_start"
+  2304 = E "lyric Po="
+  2400 = E "lyric ppi="
+  2448 = E "lyric po="
+  2544 = E "lyric ppi="
+  2592 = E "lyric po="
+  2688 = E "lyric ppo="
+  2784 = E "lyric ppi="
+  2880 = E "lyric po"
+  2976 = E "phrase_end"
+  3024 = E "phrase_start"
+  3072 = E "lyric Po="
+  3168 = E "lyric ppi="
+  3216 = E "lyric po="
+  3312 = E "lyric ppi="
+  3360 = E "lyric po="
+  3456 = E "lyric ppo="
+  3552 = E "lyric ppi="
+  3648 = E "lyric po"
+  3744 = E "phrase_end"
+  3792 = E "phrase_start"
+  3840 = E "lyric Po="
+  3936 = E "lyric ppi="
+  3984 = E "lyric po="
+  4080 = E "lyric ppi="
+  4128 = E "lyric po="
+  4224 = E "lyric ppo="
+  4320 = E "lyric ppi="
+  4416 = E "lyric po"
+  4512 = E "phrase_end"
+  4560 = E "phrase_start"
+  4608 = E "lyric Po="
+  4704 = E "lyric ppi="
+  4752 = E "lyric po="
+  4848 = E "lyric ppi="
+  4896 = E "lyric po="
+  4992 = E "lyric ppo="
+  5088 = E "lyric ppi="
+  5184 = E "lyric po"
+  5280 = E "phrase_end"
+  5328 = E "phrase_start"
+  5376 = E "lyric Po="
+  5472 = E "lyric ppi="
+  5520 = E "lyric po="
+  5616 = E "lyric ppi="
+  5664 = E "lyric po="
+  5760 = E "lyric ppo="
+  5856 = E "lyric ppi="
+  5952 = E "lyric po"
+  6048 = E "phrase_end"
+  6096 = E "phrase_start"
+  6144 = E "lyric Po="
+  6240 = E "lyric ppi="
+  6288 = E "lyric po="
+  6384 = E "lyric ppi="
+  6432 = E "lyric po="
+  6528 = E "lyric ppo="
+  6624 = E "lyric ppi="
+  6720 = E "lyric po"
+  6816 = E "phrase_end"
+  6864 = E "phrase_start"
+  6912 = E "lyric Po="
+  7008 = E "lyric ppi="
+  7056 = E "lyric po="
+  7152 = E "lyric ppi="
+  7200 = E "lyric po="
+  7296 = E "lyric ppo="
+  7392 = E "lyric ppi="
+  7488 = E "lyric po"
+  7584 = E "phrase_end"
+  7632 = E "phrase_start"
+  7680 = E "lyric Po="
+  7776 = E "lyric ppi="
+  7824 = E "lyric po="
+  7920 = E "lyric ppi="
+  7968 = E "lyric po="
+  8064 = E "lyric ppo="
+  8160 = E "lyric ppi="
+  8256 = E "lyric po"
+  8352 = E "phrase_end"
+  8400 = E "phrase_start"
+  8448 = E "lyric Po="
+  8544 = E "lyric ppi="
+  8592 = E "lyric po="
+  8688 = E "lyric ppi="
+  8736 = E "lyric po="
+  8832 = E "lyric ppo="
+  8928 = E "lyric ppi="
+  9024 = E "lyric po"
+  9120 = E "phrase_end"
+  9168 = E "phrase_start"
+  9216 = E "lyric Po="
+  9312 = E "lyric ppi="
+  9360 = E "lyric po="
+  9456 = E "lyric ppi="
+  9504 = E "lyric po="
+  9600 = E "lyric ppo="
+  9696 = E "lyric ppi="
+  9792 = E "lyric po"
+  9888 = E "phrase_end"
+  9936 = E "phrase_start"
+  9984 = E "lyric Po="
+  10080 = E "lyric ppi="
+  10128 = E "lyric po="
+  10224 = E "lyric ppi="
+  10272 = E "lyric po="
+  10368 = E "lyric ppo="
+  10464 = E "lyric ppi"
+  10608 = E "phrase_end"
+  10656 = E "phrase_start"
+  10752 = E "lyric Po="
+  10800 = E "lyric ppi!!!!"
+  13824 = E "phrase_end"
+  16800 = E "phrase_start"
+  16896 = E "lyric Saa"
+  16896 = E "section Verse 1"
+  16992 = E "lyric no-"
+  17040 = E "lyric me,"
+  17136 = E "lyric o-"
+  17184 = E "lyric mae"
+  17280 = E "lyric su-"
+  17328 = E "lyric ki"
+  17376 = E "lyric da-"
+  17424 = E "lyric ro?"
+  17472 = E "phrase_end"
+  17520 = E "phrase_start"
+  17568 = E "lyric Ya-"
+  17664 = E "lyric sa-"
+  17760 = E "lyric i"
+  17856 = E "lyric juu-"
+  18048 = E "lyric su"
+  18240 = E "phrase_end"
+  18336 = E "phrase_start"
+  18432 = E "lyric Wa-"
+  18528 = E "lyric ta-"
+  18624 = E "lyric shi"
+  18720 = E "lyric ga"
+  18816 = E "lyric ki-"
+  18864 = E "lyric me-"
+  18960 = E "lyric ta,"
+  19104 = E "lyric i-"
+  19200 = E "lyric ma"
+  19296 = E "lyric ki-"
+  19392 = E "lyric me-"
+  19488 = E "lyric ta"
+  19728 = E "phrase_end"
+  19776 = E "phrase_start"
+  19824 = E "lyric Da-"
+  19872 = E "lyric ka-"
+  19920 = E "lyric ra"
+  19968 = E "lyric non-"
+  20064 = E "lyric de,"
+  20256 = E "lyric wa-"
+  20352 = E "lyric ta-"
+  20448 = E "lyric shi"
+  20496 = E "lyric no"
+  20640 = E "lyric ya-"
+  20736 = E "lyric sa-"
+  20832 = E "lyric i"
+  20928 = E "lyric juu-"
+  21120 = E "lyric su"
+  21312 = E "phrase_end"
+  21408 = E "phrase_start"
+  21504 = E "lyric Ka-"
+  21600 = E "lyric ka-"
+  21696 = E "lyric ku"
+  21792 = E "lyric wa"
+  21888 = E "lyric ni-"
+  21984 = E "lyric hya-"
+  22080 = E "lyric ku"
+  22176 = E "lyric en!"
+  22656 = E "lyric (E="
+  22752 = E "lyric e="
+  22848 = E "lyric e="
+  22896 = E "lyric e="
+  22944 = E "lyric e="
+  22992 = E "lyric e)"
+  23008 = E "phrase_end"
+  23024 = E "phrase_start"
+  23040 = E "lyric Woo!"
+  23040 = E "section Interlude 1"
+  23232 = E "phrase_end"
+  24096 = E "phrase_start"
+  24192 = E "lyric Soi-"
+  24288 = E "lyric ya!!"
+  24384 = E "lyric Soi-"
+  24480 = E "lyric ya!!"
+  24576 = E "phrase_end"
+  25632 = E "phrase_start"
+  25728 = E "lyric Dos-"
+  25824 = E "lyric see!!"
+  25920 = E "lyric Dos-"
+  26016 = E "lyric see!!"
+  26112 = E "phrase_end"
+  27168 = E "phrase_start"
+  27264 = E "lyric Soi-"
+  27360 = E "lyric ya!!"
+  27456 = E "lyric Soi-"
+  27552 = E "lyric ya!!"
+  27648 = E "phrase_end"
+  28704 = E "phrase_start"
+  28800 = E "lyric Dos-"
+  28896 = E "lyric see!!"
+  28992 = E "lyric Dos-"
+  29088 = E "lyric see!!"
+  29136 = E "phrase_end"
+  29160 = E "phrase_start"
+  29184 = E "lyric Ma-"
+  29184 = E "section Verse 2"
+  29376 = E "lyric ro-"
+  29568 = E "lyric ya-"
+  29664 = E "lyric ka"
+  29856 = E "lyric ya-"
+  29952 = E "lyric sa-"
+  30048 = E "lyric i"
+  30144 = E "lyric juu-"
+  30336 = E "lyric su"
+  30528 = E "phrase_end"
+  30624 = E "phrase_start"
+  30720 = E "lyric Fu-"
+  30912 = E "lyric wa-"
+  31104 = E "lyric fu-"
+  31200 = E "lyric wa"
+  31392 = E "lyric ya-"
+  31488 = E "lyric sa-"
+  31584 = E "lyric i"
+  31680 = E "lyric juu-"
+  31872 = E "lyric su"
+  32064 = E "phrase_end"
+  32160 = E "phrase_start"
+  32256 = E "lyric I-"
+  32448 = E "lyric chi-"
+  32640 = E "lyric ban"
+  32928 = E "lyric o-"
+  33024 = E "lyric su-"
+  33120 = E "lyric su-"
+  33216 = E "lyric me"
+  33312 = E "lyric na"
+  33408 = E "lyric no"
+  33600 = E "lyric wa"
+  33792 = E "phrase_end"
+  33888 = E "phrase_start"
+  33984 = E "lyric Mi-"
+  34080 = E "lyric do-"
+  34176 = E "lyric ri"
+  34272 = E "lyric no"
+  34368 = E "lyric juu-"
+  34560 = E "lyric su!"
+  35040 = E "phrase_end"
+  35232 = E "phrase_start"
+  35328 = E "lyric Po="
+  35328 = E "section Refrain 1A"
+  35424 = E "lyric ppi="
+  35472 = E "lyric po="
+  35568 = E "lyric ppi="
+  35616 = E "lyric po="
+  35712 = E "lyric ppo="
+  35808 = E "lyric ppi="
+  35904 = E "lyric po"
+  36000 = E "phrase_end"
+  36048 = E "phrase_start"
+  36096 = E "lyric Po="
+  36192 = E "lyric ppi="
+  36240 = E "lyric po="
+  36336 = E "lyric ppi="
+  36384 = E "lyric po="
+  36480 = E "lyric ppo="
+  36576 = E "lyric ppi="
+  36672 = E "lyric po"
+  36768 = E "phrase_end"
+  36816 = E "phrase_start"
+  36864 = E "lyric Be-"
+  37056 = E "lyric ji-"
+  37248 = E "lyric ta-"
+  37344 = E "lyric bu-"
+  37440 = E "lyric ru"
+  37536 = E "lyric na="
+  37632 = E "lyric a="
+  37728 = E "lyric a-"
+  37776 = E "lyric a="
+  37872 = E "lyric a-"
+  37920 = E "lyric a="
+  38016 = E "lyric a="
+  38112 = E "lyric a="
+  38208 = E "lyric a-"
+  38256 = E "lyric a-"
+  38304 = E "lyric a"
+  38352 = E "phrase_end"
+  38376 = E "phrase_start"
+  38400 = E "lyric Po="
+  38496 = E "lyric ppi="
+  38544 = E "lyric po="
+  38640 = E "lyric ppi="
+  38688 = E "lyric po="
+  38784 = E "lyric ppo="
+  38880 = E "lyric ppi="
+  38976 = E "lyric po"
+  39072 = E "phrase_end"
+  39120 = E "phrase_start"
+  39168 = E "lyric Po="
+  39264 = E "lyric ppi="
+  39312 = E "lyric po="
+  39408 = E "lyric ppi="
+  39456 = E "lyric po="
+  39552 = E "lyric ppo="
+  39648 = E "lyric ppi="
+  39744 = E "lyric po"
+  39840 = E "phrase_end"
+  39888 = E "phrase_start"
+  39936 = E "lyric Sei-"
+  40128 = E "lyric mei"
+  40320 = E "lyric a-"
+  40416 = E "lyric fu-"
+  40512 = E "lyric re-"
+  40608 = E "lyric ta="
+  40704 = E "lyric a="
+  40800 = E "lyric a-"
+  40848 = E "lyric a="
+  40944 = E "lyric a-"
+  40992 = E "lyric a="
+  41088 = E "lyric a="
+  41184 = E "lyric a="
+  41280 = E "lyric a-"
+  41328 = E "lyric a-"
+  41376 = E "lyric a"
+  41424 = E "phrase_end"
+  41448 = E "phrase_start"
+  41472 = E "lyric Po="
+  41472 = E "section Refrain 1B"
+  41568 = E "lyric ppi="
+  41616 = E "lyric po="
+  41712 = E "lyric ppi="
+  41760 = E "lyric po="
+  41856 = E "lyric ppo="
+  41952 = E "lyric ppi="
+  42048 = E "lyric po"
+  42144 = E "phrase_end"
+  42192 = E "phrase_start"
+  42240 = E "lyric Po="
+  42336 = E "lyric ppi="
+  42384 = E "lyric po="
+  42480 = E "lyric ppi="
+  42528 = E "lyric po="
+  42624 = E "lyric ppo="
+  42720 = E "lyric ppi="
+  42816 = E "lyric po"
+  42912 = E "phrase_end"
+  42960 = E "phrase_start"
+  43008 = E "lyric A-"
+  43200 = E "lyric na-"
+  43392 = E "lyric ta"
+  43488 = E "lyric mo"
+  43584 = E "lyric i-"
+  43680 = E "lyric ma="
+  43776 = E "lyric a="
+  43872 = E "lyric a-"
+  43920 = E "lyric a="
+  44016 = E "lyric a-"
+  44064 = E "lyric a="
+  44160 = E "lyric a="
+  44256 = E "lyric a="
+  44352 = E "lyric a-"
+  44400 = E "lyric a-"
+  44448 = E "lyric a"
+  44496 = E "phrase_end"
+  44520 = E "phrase_start"
+  44544 = E "lyric Po="
+  44640 = E "lyric ppi="
+  44688 = E "lyric po="
+  44784 = E "lyric ppi="
+  44832 = E "lyric po="
+  44928 = E "lyric ppo="
+  45024 = E "lyric ppi="
+  45120 = E "lyric po"
+  45216 = E "phrase_end"
+  45264 = E "phrase_start"
+  45312 = E "lyric Po="
+  45408 = E "lyric ppi="
+  45456 = E "lyric po="
+  45552 = E "lyric ppi="
+  45600 = E "lyric po="
+  45696 = E "lyric ppo="
+  45792 = E "lyric ppi="
+  45888 = E "lyric po"
+  45984 = E "phrase_end"
+  46032 = E "phrase_start"
+  46080 = E "lyric Ya-"
+  46272 = E "lyric sa-"
+  46464 = E "lyric i"
+  46656 = E "lyric juu-"
+  46944 = E "lyric su"
+  46992 = E "lyric ga"
+  47232 = E "lyric su-"
+  47328 = E "lyric ki"
+  47376 = E "lyric ni"
+  47520 = E "lyric na-"
+  47616 = E "lyric ru"
+  48192 = E "phrase_end"
+  48288 = E "phrase_start"
+  48384 = E "lyric Po="
+  48384 = E "section Intro Reprise"
+  48432 = E "lyric ppi!!!!"
+  51456 = E "phrase_end"
+  54432 = E "phrase_start"
+  54528 = E "lyric Let's"
+  54528 = E "section Verse 3"
+  54672 = E "lyric take."
+  54816 = E "lyric You-"
+  54864 = E "lyric 're"
+  54912 = E "lyric lo-"
+  55008 = E "lyric vin'"
+  55056 = E "lyric it"
+  55200 = E "phrase_end"
+  55248 = E "phrase_start"
+  55296 = E "lyric Vege-"
+  55392 = E "lyric ta-"
+  55488 = E "lyric bl-"
+  55584 = E "lyric e"
+  55680 = E "lyric juice"
+  55872 = E "phrase_end"
+  55893 = E "phrase_start"
+  55976 = E "lyric You"
+  56059 = E "lyric must"
+  56196 = E "lyric love"
+  56350 = E "lyric this"
+  56474 = E "lyric drink,"
+  56611 = E "lyric I"
+  56759 = E "lyric de-"
+  56845 = E "lyric ci-"
+  56931 = E "lyric ded"
+  57023 = E "lyric it"
+  57124 = E "lyric now"
+  57360 = E "phrase_end"
+  57408 = E "phrase_start"
+  57504 = E "lyric So"
+  57600 = E "lyric take"
+  57696 = E "lyric now,"
+  57888 = E "lyric with"
+  57984 = E "lyric true"
+  58128 = E "lyric heart"
+  58320 = E "phrase_end"
+  58344 = E "phrase_start"
+  58362 = E "lyric Vege-"
+  58464 = E "lyric ta-"
+  58560 = E "lyric bl-"
+  58643 = E "lyric e"
+  58752 = E "lyric juice."
+  58944 = E "phrase_end"
+  59040 = E "phrase_start"
+  59136 = E "lyric It"
+  59280 = E "lyric costs"
+  59424 = E "lyric just"
+  59616 = E "lyric two"
+  59712 = E "lyric do-"
+  59808 = E "lyric llars!"
+  60288 = E "lyric (A="
+  60384 = E "lyric a="
+  60480 = E "lyric a="
+  60528 = E "lyric a="
+  60576 = E "lyric a="
+  60624 = E "lyric a)"
+  60640 = E "phrase_end"
+  60656 = E "phrase_start"
+  60672 = E "lyric Spin!"
+  60672 = E "section Interlude 2"
+  60864 = E "phrase_end"
+  61728 = E "phrase_start"
+  61824 = E "lyric Come"
+  61920 = E "lyric on!!"
+  62016 = E "lyric Come"
+  62112 = E "lyric on!!"
+  62208 = E "phrase_end"
+  63168 = E "phrase_start"
+  63360 = E "lyric Let's"
+  63552 = E "lyric dance!!"
+  63744 = E "phrase_end"
+  64704 = E "phrase_start"
+  64896 = E "lyric Come"
+  64992 = E "lyric on!!"
+  65088 = E "lyric Come"
+  65184 = E "lyric on!!"
+  65280 = E "phrase_end"
+  66240 = E "phrase_start"
+  66432 = E "lyric Let's"
+  66624 = E "lyric dance!!"
+  66720 = E "phrase_end"
+  66768 = E "phrase_start"
+  66816 = E "lyric Me-"
+  66816 = E "section Verse 4"
+  67008 = E "lyric llow"
+  67200 = E "lyric and"
+  67296 = E "lyric me-"
+  67488 = E "lyric llow"
+  67584 = E "lyric vege-"
+  67680 = E "lyric ta-"
+  67776 = E "lyric bl-"
+  67872 = E "lyric e"
+  67968 = E "lyric juice"
+  68160 = E "phrase_end"
+  68256 = E "phrase_start"
+  68352 = E "lyric Crea-"
+  68544 = E "lyric my"
+  68736 = E "lyric and"
+  68832 = E "lyric crea-"
+  69024 = E "lyric my"
+  69120 = E "lyric vege-"
+  69216 = E "lyric ta-"
+  69312 = E "lyric bl-"
+  69408 = E "lyric e"
+  69504 = E "lyric juice"
+  69696 = E "phrase_end"
+  69792 = E "phrase_start"
+  69888 = E "lyric I"
+  70080 = E "lyric guess"
+  70272 = E "lyric you"
+  70368 = E "lyric should"
+  70560 = E "lyric like"
+  70752 = E "lyric the"
+  70848 = E "lyric best"
+  71040 = E "lyric this"
+  71232 = E "lyric one"
+  71399 = E "phrase_end"
+  71519 = E "phrase_start"
+  71616 = E "lyric Big"
+  71808 = E "lyric pal-"
+  71904 = E "lyric e"
+  71997 = E "lyric blue"
+  72192 = E "lyric juice!"
+  72672 = E "phrase_end"
+  72864 = E "phrase_start"
+  72960 = E "lyric Po="
+  72960 = E "section Refrain 2A"
+  73056 = E "lyric ppi="
+  73104 = E "lyric po="
+  73200 = E "lyric ppi="
+  73248 = E "lyric po="
+  73344 = E "lyric ppo="
+  73440 = E "lyric ppi="
+  73536 = E "lyric po"
+  73632 = E "phrase_end"
+  73680 = E "phrase_start"
+  73728 = E "lyric Po="
+  73824 = E "lyric ppi="
+  73872 = E "lyric po="
+  73968 = E "lyric ppi="
+  74016 = E "lyric po="
+  74112 = E "lyric ppo="
+  74208 = E "lyric ppi="
+  74304 = E "lyric po"
+  74400 = E "phrase_end"
+  74448 = E "phrase_start"
+  74496 = E "lyric We"
+  74688 = E "lyric are"
+  74880 = E "lyric ve-"
+  74976 = E "lyric ge-"
+  75072 = E "lyric ta-"
+  75168 = E "lyric ri-"
+  75264 = E "lyric a="
+  75360 = E "lyric a-"
+  75408 = E "lyric a="
+  75504 = E "lyric a-"
+  75552 = E "lyric a="
+  75648 = E "lyric a="
+  75744 = E "lyric a="
+  75840 = E "lyric a-"
+  75888 = E "lyric a-"
+  75936 = E "lyric an"
+  75984 = E "phrase_end"
+  76008 = E "phrase_start"
+  76032 = E "lyric Po="
+  76128 = E "lyric ppi="
+  76176 = E "lyric po="
+  76272 = E "lyric ppi="
+  76320 = E "lyric po="
+  76416 = E "lyric ppo="
+  76512 = E "lyric ppi="
+  76608 = E "lyric po"
+  76704 = E "phrase_end"
+  76752 = E "phrase_start"
+  76800 = E "lyric Po="
+  76896 = E "lyric ppi="
+  76944 = E "lyric po="
+  77040 = E "lyric ppi="
+  77088 = E "lyric po="
+  77184 = E "lyric ppo="
+  77280 = E "lyric ppi="
+  77376 = E "lyric po"
+  77472 = E "phrase_end"
+  77520 = E "phrase_start"
+  77568 = E "lyric Ev-"
+  77760 = E "lyric ery"
+  77952 = E "lyric ve-"
+  78048 = E "lyric ge-"
+  78144 = E "lyric ta-"
+  78240 = E "lyric ri-"
+  78336 = E "lyric a="
+  78432 = E "lyric a-"
+  78480 = E "lyric a="
+  78576 = E "lyric a-"
+  78624 = E "lyric a="
+  78720 = E "lyric a="
+  78816 = E "lyric a="
+  78912 = E "lyric a-"
+  78960 = E "lyric a-"
+  79008 = E "lyric an"
+  79056 = E "phrase_end"
+  79080 = E "phrase_start"
+  79104 = E "lyric Po="
+  79104 = E "section Refrain 2B/Outro"
+  79200 = E "lyric ppi="
+  79248 = E "lyric po="
+  79344 = E "lyric ppi="
+  79392 = E "lyric po="
+  79488 = E "lyric ppo="
+  79584 = E "lyric ppi="
+  79680 = E "lyric po"
+  79776 = E "phrase_end"
+  79824 = E "phrase_start"
+  79872 = E "lyric Po="
+  79968 = E "lyric ppi="
+  80016 = E "lyric po="
+  80112 = E "lyric ppi="
+  80160 = E "lyric po="
+  80256 = E "lyric ppo="
+  80352 = E "lyric ppi="
+  80448 = E "lyric po"
+  80544 = E "phrase_end"
+  80592 = E "phrase_start"
+  80640 = E "lyric Ha-"
+  80832 = E "lyric ppy"
+  81024 = E "lyric ve-"
+  81120 = E "lyric ge-"
+  81216 = E "lyric ta-"
+  81312 = E "lyric ri-"
+  81408 = E "lyric a="
+  81504 = E "lyric a-"
+  81552 = E "lyric a="
+  81648 = E "lyric a-"
+  81696 = E "lyric a="
+  81792 = E "lyric a="
+  81888 = E "lyric a="
+  81984 = E "lyric a-"
+  82032 = E "lyric a-"
+  82080 = E "lyric an"
+  82128 = E "phrase_end"
+  82152 = E "phrase_start"
+  82176 = E "lyric Po="
+  82272 = E "lyric ppi="
+  82320 = E "lyric po="
+  82416 = E "lyric ppi="
+  82464 = E "lyric po="
+  82560 = E "lyric ppo="
+  82656 = E "lyric ppi="
+  82752 = E "lyric po"
+  82848 = E "phrase_end"
+  82896 = E "phrase_start"
+  82944 = E "lyric Po="
+  83040 = E "lyric ppi="
+  83088 = E "lyric po="
+  83184 = E "lyric ppi="
+  83232 = E "lyric po="
+  83328 = E "lyric ppo="
+  83424 = E "lyric ppi="
+  83520 = E "lyric po"
+  83616 = E "phrase_end"
+  83664 = E "phrase_start"
+  83712 = E "lyric Y."
+  83904 = E "lyric A."
+  84096 = E "lyric S."
+  84288 = E "lyric A."
+  84480 = E "lyric I"
+  84576 = E "lyric love"
+  84624 = E "lyric you,"
+  84768 = E "lyric so"
+  84864 = E "lyric and"
+  85008 = E "lyric I"
+  85152 = E "lyric love"
+  85248 = E "lyric you!"
+  85824 = E "phrase_end"
 }
 [ExpertSingle]
 {
@@ -8326,6 +9016,7 @@
   16896 = N 2 0
   16896 = N 66 0
   16896 = N 0 0
+  16896 = S 64 0
   16992 = N 2 0
   16992 = N 66 0
   17040 = N 2 0
@@ -8562,6 +9253,7 @@
   23040 = N 2 0
   23040 = N 66 0
   23040 = N 0 0
+  23040 = S 64 0
   23136 = N 2 0
   23136 = N 66 0
   23184 = N 2 0
@@ -8676,6 +9368,7 @@
   26112 = N 2 0
   26112 = N 66 0
   26112 = N 0 0
+  26112 = S 64 0
   26208 = N 2 0
   26208 = N 66 0
   26256 = N 2 0
@@ -9020,6 +9713,7 @@
   35328 = N 2 0
   35328 = N 66 0
   35328 = N 0 0
+  35328 = S 64 0
   35424 = N 2 0
   35424 = N 66 0
   35472 = N 2 0
@@ -9251,6 +9945,7 @@
   41472 = N 2 0
   41472 = N 66 0
   41472 = N 0 0
+  41472 = S 64 0
   41568 = N 2 0
   41568 = N 66 0
   41616 = N 2 0
@@ -9726,6 +10421,7 @@
   54528 = N 2 0
   54528 = N 66 0
   54528 = N 0 0
+  54528 = S 64 0
   54624 = N 2 0
   54624 = N 66 0
   54672 = N 2 0
@@ -9962,6 +10658,7 @@
   60672 = N 2 0
   60672 = N 66 0
   60672 = N 0 0
+  60672 = S 64 0
   60768 = N 2 0
   60768 = N 66 0
   60816 = N 2 0
@@ -10420,6 +11117,7 @@
   72960 = N 2 0
   72960 = N 66 0
   72960 = N 0 0
+  72960 = S 64 0
   73056 = N 2 0
   73056 = N 66 0
   73104 = N 2 0
@@ -10651,6 +11349,7 @@
   79104 = N 2 0
   79104 = N 66 0
   79104 = N 0 0
+  79104 = S 64 0
   79200 = N 2 0
   79200 = N 66 0
   79248 = N 2 0
@@ -11240,6 +11939,7 @@
   16896 = N 2 0
   16896 = N 66 0
   16896 = N 0 0
+  16896 = S 64 0
   16992 = N 2 0
   16992 = N 66 0
   17088 = N 1 0
@@ -11405,6 +12105,7 @@
   23040 = N 2 0
   23040 = N 66 0
   23040 = N 0 0
+  23040 = S 64 0
   23136 = N 2 0
   23136 = N 66 0
   23232 = N 1 0
@@ -11486,6 +12187,7 @@
   26112 = N 2 0
   26112 = N 66 0
   26112 = N 0 0
+  26112 = S 64 0
   26208 = N 2 0
   26208 = N 66 0
   26304 = N 1 0
@@ -11729,6 +12431,7 @@
   35328 = N 2 0
   35328 = N 66 0
   35328 = N 0 0
+  35328 = S 64 0
   35424 = N 2 0
   35424 = N 66 0
   35520 = N 1 0
@@ -11892,6 +12595,7 @@
   41472 = N 2 0
   41472 = N 66 0
   41472 = N 0 0
+  41472 = S 64 0
   41568 = N 2 0
   41568 = N 66 0
   41664 = N 1 0
@@ -12229,6 +12933,7 @@
   54528 = N 2 0
   54528 = N 66 0
   54528 = N 0 0
+  54528 = S 64 0
   54624 = N 2 0
   54624 = N 66 0
   54720 = N 1 0
@@ -12394,6 +13099,7 @@
   60672 = N 2 0
   60672 = N 66 0
   60672 = N 0 0
+  60672 = S 64 0
   60768 = N 2 0
   60768 = N 66 0
   60864 = N 1 0
@@ -12718,6 +13424,7 @@
   72960 = N 2 0
   72960 = N 66 0
   72960 = N 0 0
+  72960 = S 64 0
   73056 = N 2 0
   73056 = N 66 0
   73152 = N 1 0
@@ -12881,6 +13588,7 @@
   79104 = N 2 0
   79104 = N 66 0
   79104 = N 0 0
+  79104 = S 64 0
   79200 = N 2 0
   79200 = N 66 0
   79296 = N 1 0
@@ -13335,6 +14043,7 @@
   16896 = N 2 0
   16896 = N 66 0
   16896 = N 0 0
+  16896 = S 64 0
   16992 = N 2 0
   16992 = N 66 0
   17088 = N 1 0
@@ -13457,6 +14166,7 @@
   23040 = N 2 0
   23040 = N 66 0
   23040 = N 0 0
+  23040 = S 64 0
   23136 = N 2 0
   23136 = N 66 0
   23232 = N 1 0
@@ -13522,6 +14232,7 @@
   26112 = N 2 0
   26112 = N 66 0
   26112 = N 0 0
+  26112 = S 64 0
   26208 = N 2 0
   26208 = N 66 0
   26304 = N 1 0
@@ -13714,6 +14425,7 @@
   35328 = N 2 0
   35328 = N 66 0
   35328 = N 0 0
+  35328 = S 64 0
   35424 = N 2 0
   35424 = N 66 0
   35520 = N 1 0
@@ -13845,6 +14557,7 @@
   41472 = N 2 0
   41472 = N 66 0
   41472 = N 0 0
+  41472 = S 64 0
   41568 = N 2 0
   41568 = N 66 0
   41664 = N 1 0
@@ -14113,6 +14826,7 @@
   54528 = N 2 0
   54528 = N 66 0
   54528 = N 0 0
+  54528 = S 64 0
   54624 = N 2 0
   54624 = N 66 0
   54720 = N 1 0
@@ -14235,6 +14949,7 @@
   60672 = N 2 0
   60672 = N 66 0
   60672 = N 0 0
+  60672 = S 64 0
   60768 = N 2 0
   60768 = N 66 0
   60864 = N 1 0
@@ -14492,6 +15207,7 @@
   72960 = N 2 0
   72960 = N 66 0
   72960 = N 0 0
+  72960 = S 64 0
   73056 = N 2 0
   73056 = N 66 0
   73152 = N 1 0
@@ -14623,6 +15339,7 @@
   79104 = N 2 0
   79104 = N 66 0
   79104 = N 0 0
+  79104 = S 64 0
   79200 = N 2 0
   79200 = N 66 0
   79296 = N 1 0
@@ -14935,6 +15652,7 @@
   16896 = N 2 0
   16896 = N 66 0
   16896 = N 0 0
+  16896 = S 64 0
   17088 = N 1 0
   17088 = N 2 0
   17088 = N 66 0
@@ -15011,6 +15729,7 @@
   23040 = N 2 0
   23040 = N 66 0
   23040 = N 0 0
+  23040 = S 64 0
   23232 = N 1 0
   23232 = N 2 0
   23232 = N 66 0
@@ -15051,6 +15770,7 @@
   26112 = N 2 0
   26112 = N 66 0
   26112 = N 0 0
+  26112 = S 64 0
   26304 = N 1 0
   26304 = N 2 0
   26304 = N 66 0
@@ -15171,6 +15891,7 @@
   35328 = N 2 0
   35328 = N 66 0
   35328 = N 0 0
+  35328 = S 64 0
   35520 = N 1 0
   35520 = N 2 0
   35520 = N 66 0
@@ -15252,6 +15973,7 @@
   41472 = N 2 0
   41472 = N 66 0
   41472 = N 0 0
+  41472 = S 64 0
   41664 = N 1 0
   41664 = N 2 0
   41664 = N 66 0
@@ -15420,6 +16142,7 @@
   54528 = N 2 0
   54528 = N 66 0
   54528 = N 0 0
+  54528 = S 64 0
   54720 = N 1 0
   54720 = N 2 0
   54720 = N 66 0
@@ -15496,6 +16219,7 @@
   60672 = N 2 0
   60672 = N 66 0
   60672 = N 0 0
+  60672 = S 64 0
   60864 = N 1 0
   60864 = N 2 0
   60864 = N 66 0
@@ -15656,6 +16380,7 @@
   72960 = N 2 0
   72960 = N 66 0
   72960 = N 0 0
+  72960 = S 64 0
   73152 = N 1 0
   73152 = N 2 0
   73152 = N 66 0
@@ -15737,6 +16462,7 @@
   79104 = N 2 0
   79104 = N 66 0
   79104 = N 0 0
+  79104 = S 64 0
   79296 = N 1 0
   79296 = N 2 0
   79296 = N 66 0
