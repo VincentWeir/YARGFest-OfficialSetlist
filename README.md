@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-[YARG: FEST EDITION DOWNLOAD](https://github.com/VincentWeir/YARG-Fest-Edition)
+[YARG: FEST EDITION DOWNLOAD](https://github.com/VincentWeir/YARG-Fest-Edition) / 
 [SUGGESTION/ISSUE FORM](https://forms.gle/72hTusE3i3utg7vt9)
 
 ---
