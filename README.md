@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week0.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week1.jpg" width="100%">
   </picture>
 </p>
 
@@ -9,9 +9,20 @@
 
 ---
 
-Feast your eyes! Or rather, "Fest" your eyes...
+## New Songs
 
-The launch setlist is finally here, with a hand-picked, curated selection of songs, with more coming every week!
+Set sail and pump up the hype with this weeks songs:
+
+'Ahoy!' - Epic Games
+'Pump It' - Black Eyed Peas
+
+## Adjustments
+
+The following songs have been adjusted:
+
+'Girls Just Want To Have Fun' - Cyndi Lauper
+
+New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
 ---
 
