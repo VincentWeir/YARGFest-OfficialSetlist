@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week1.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week2.png" width="100%">
   </picture>
 </p>
 
@@ -11,16 +11,10 @@
 
 ## New Songs
 
-Set sail and pump up the hype with this weeks songs:
+Sing it out loud for those startin' somethin' with this week's songs:
 
-'Ahoy!' - Epic Games
-'Pump It' - Black Eyed Peas
-
-## Adjustments
-
-The following songs have been adjusted:
-
-'Girls Just Want To Have Fun' - Cyndi Lauper
+'Coral Chorus' - Epic Games
+'Wanna Be Startin' Somethin'' - Michael Jackson
 
 New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
