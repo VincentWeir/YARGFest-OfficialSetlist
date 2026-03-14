@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week2.png" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week3.jpg" width="100%">
   </picture>
 </p>
 
@@ -11,10 +11,10 @@
 
 ## New Songs
 
-Sing it out loud for those startin' somethin' with this week's songs:
+Be swift as a river, strong as a raging fire, and...glittering with star power with this week's songs:
 
-'Coral Chorus' - Epic Games
-'Wanna Be Startin' Somethin'' - Michael Jackson
+'Star Power' - Epic Games
+'I'll Make A Man Out Of You' - Cast of "Mulan"
 
 New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
