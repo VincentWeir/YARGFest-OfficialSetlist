@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week3.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week4.jpg" width="100%">
   </picture>
 </p>
 
@@ -11,10 +11,10 @@
 
 ## New Songs
 
-Be swift as a river, strong as a raging fire, and...glittering with star power with this week's songs:
+Keep on dancin' with this week's song batch:
 
-'Star Power' - Epic Games
-'I'll Make A Man Out Of You' - Cast of "Mulan"
+"Marathon"" - Epic Games
+"Physical" - Dua Lipa
 
 New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
