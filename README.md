@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week4.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week5.jpg" width="100%">
   </picture>
 </p>
 
@@ -11,10 +11,10 @@
 
 ## New Songs
 
-Keep on dancin' with this week's song batch:
+Feelin' a bit electrical this week with this batch of songs:
 
-"Marathon"" - Epic Games
-"Physical" - Dua Lipa
+"Electro-fied!" - Epic Games
+"Astronomia (Vicetone Remix)" - Vicetone, Tony Igy
 
 New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
