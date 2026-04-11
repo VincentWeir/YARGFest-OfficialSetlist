@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week5.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week6.jpg" width="100%">
   </picture>
 </p>
 
@@ -11,10 +11,10 @@
 
 ## New Songs
 
-Feelin' a bit electrical this week with this batch of songs:
+Funk it up and electrify your heart with this week's songs:
 
-"Electro-fied!" - Epic Games
-"Astronomia (Vicetone Remix)" - Vicetone, Tony Igy
+"Get Funky" - Epic Games
+"Buttercup" - Jack Stauber
 
 New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
