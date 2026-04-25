@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week6.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week7.jpg" width="100%">
   </picture>
 </p>
 
@@ -11,12 +11,20 @@
 
 ## New Songs
 
-Funk it up and electrify your heart with this week's songs:
+I held out for one more week. If one thing really means one, this week will have 3 songs...
 
-"Get Funky" - Epic Games
+"Justice" - Epic Games
+"Afterburner" - Epic Games
+"Paralyzer" - Finger Eleven
+
+New songs are usually announced Fridays at 12PM ET and released Saturdays at 12AM ET.
+
+### Adjustments
+
+The following songs have been adjusted:
+
+"All Star" - Smash Mouth
 "Buttercup" - Jack Stauber
-
-New songs are announced every Friday at 12PM ET and released Saturday at 12AM ET.
 
 ---
 
