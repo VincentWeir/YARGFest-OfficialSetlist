@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="YARG: Fest Edition setlist" src="./Images/Week7.jpg" width="100%">
+    <img alt="YARG: Fest Edition setlist" src="./Images/Week8.jpg" width="100%">
   </picture>
 </p>
 
@@ -11,11 +11,11 @@
 
 ## New Songs
 
-I held out for one more week. If one thing really means one, this week will have 3 songs...
+The future is now, and you can do whatever you feel.
+Here's this week's song drop:
 
-"Justice" - Epic Games
-"Afterburner" - Epic Games
-"Paralyzer" - Finger Eleven
+'Neo World' - Epic Games
+'Y.M.C.A.' - Village People
 
 New songs are usually announced Fridays at 12PM ET and released Saturdays at 12AM ET.
 
@@ -23,8 +23,7 @@ New songs are usually announced Fridays at 12PM ET and released Saturdays at 12A
 
 The following songs have been adjusted:
 
-"All Star" - Smash Mouth
-"Buttercup" - Jack Stauber
+'Around the World (La La La La La)' - A Touch Of Class
 
 ---
 
